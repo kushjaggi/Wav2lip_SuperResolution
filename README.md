@@ -2,7 +2,7 @@
 
 ## README
 
-This repository contains a Wav2Lip model with GAN for improved lip syncing and employing ERSGAN for High Resoultion video of LipSyncs.
+This repository contains a Wav2Lip model with GAN for improved lip syncing and employing ESRGAN for High Resoultion video of LipSyncs.
 
 To use the model in Google Colab, simply click on the following link:
 
@@ -27,7 +27,7 @@ To generate a lip-syncing video, simply follow these steps:
 5. Upload the audio file that you want to generate a lip-syncing video.
 6. Then in last cell to churn the data add specifiactions of padding based on your own needs.
 7. Then finally run the last cell  to generate the lip-syncing video.
-8. Finally connect the Lipsynced video with ERSGAN part install the pre-required dependencies.
+8. Finally connect the Lipsynced video with ESRGAN part install the pre-required dependencies.
 9. Train on each frame.
 10. Get Final Video.
 
