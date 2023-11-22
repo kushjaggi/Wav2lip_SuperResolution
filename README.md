@@ -1,6 +1,6 @@
 # Wav2lip_SuperResolution
-Wav2Lip with ERSGAN
-# README
+
+## README
 
 This repository contains a Wav2Lip model with GAN for improved lip syncing and employing ERSGAN for High Resoultion video of LipSyncs.
 
