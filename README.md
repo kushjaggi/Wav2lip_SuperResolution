@@ -21,15 +21,19 @@ Audio-https://openinapp.co/o9vuj
 To generate a lip-syncing video, simply follow these steps:
 
 1. Open the google colab with the link provided above.
-2. Install the pre-required dependecies and the Wav2Lip model.
+2. Install the pre-required dependencies and the Wav2Lip model.
 3. In the Google Colab notebook, mount your Google Drive account.
 4. Upload the video file that you want to generate a lip-syncing video.
 5. Upload the audio file that you want to generate a lip-syncing video.
 6. Then in last cell to churn the data add specifiactions of padding based on your own needs.
-7. Then finally run the last cell  to generate the lip-syncing video. 
+7. Then finally run the last cell  to generate the lip-syncing video.
+8. Finally connect the Lipsynced video with ERSGAN part install the pre-required dependencies.
+9. Train on each frame.
+10. Get Final Video.
 
 ## Sample Output
 
+https://drive.google.com/file/d/1uNVv3ncr8J6YutaG02OcGlV9K3nSATV8/view?usp=sharing
 
 
 ### Contact
